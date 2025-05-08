@@ -1,0 +1,82 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Global Haven Residences Presentation</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0b0c10;
+      color: #fff;
+    }
+    header {
+      background: #1f2833;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+      color: #66fcf1;
+    }
+    .tagline {
+      font-size: 1.2em;
+      color: #c5c6c7;
+    }
+    .scene {
+      padding: 40px 20px;
+      border-bottom: 1px solid #45a29e;
+    }
+    .scene h2 {
+      color: #66fcf1;
+    }
+    .scene p {
+      max-width: 800px;
+      margin: 10px auto;
+      font-size: 1.1em;
+    }
+    .contact {
+      background: #1f2833;
+      text-align: center;
+      padding: 30px;
+      font-size: 1.1em;
+    }
+    .contact a {
+      color: #66fcf1;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Global Haven Residences</h1>
+    <div class="tagline">Invest. Earn. Build Generational Wealth.</div>
+  </header>  <section class="scene">
+    <h2>SCENE 1: Company Intro</h2>
+    <p>Welcome to Global Haven Residences, an elite real estate investment opportunity brought to you by ci-investment.org. We proudly present a visionary project designed to redefine luxury living across Canada and Europe, while offering solid, long-term generational wealth to our investors.</p>
+  </section>  <section class="scene">
+    <h2>SCENE 2: Vision & Concept</h2>
+    <p>Global Haven Residences is a high-end, mixed-use estate designed to integrate premium living spaces, eco-friendly features, retail areas, and wellness amenities. It’s not just real estate. It’s a community, a brand, and a legacy in the making.</p>
+  </section>  <section class="scene">
+    <h2>SCENE 3: Investment Plan</h2>
+    <p>This $15 million project is open to investors starting from just $150,000, offering a minimum of 18% annual return. Major stakeholders investing $1 million and above will enjoy equity shares, brand licensing rights, and exclusive access to global property dividends.</p>
+  </section>  <section class="scene">
+    <h2>SCENE 4: Security & Growth</h2>
+    <p>With soaring property values in Canada and key European markets, this project guarantees not just profits, but generational wealth. Our properties are built to appreciate, and with our strategic expansion plan, your investment grows far beyond real estate.</p>
+  </section>  <section class="scene">
+    <h2>SCENE 5: Building Design</h2>
+    <p>The estate features smart villas, luxury apartments, rooftop gardens, a wellness center, and high-end retail spaces. Designed with sustainability and comfort in mind, each unit reflects cutting-edge architecture and modern elegance.</p>
+  </section>  <section class="scene">
+    <h2>SCENE 6: Exclusive Investor Benefits</h2>
+    <p>Major investors will be highlighted on our ‘Investor Wall of Trust,’ receive customized monthly profit reports, and gain first-hand opportunities in future developments across Europe and North America. With ci-investment.org, your capital works smart, safe, and global.</p>
+  </section>  <section class="scene">
+    <h2>SCENE 7: Call to Action</h2>
+    <p>Construction begins this quarter, and the first units will be ready for occupancy within 18 months. Secure your position today, and let your investment build a legacy. Global Haven Residences—where your future meets value.</p>
+  </section>  <div class="contact">
+    Contact us: <a href="mailto:ci.investment.organisation@gmail.com">ci.investment.organisation@gmail.com</a><br />
+    WhatsApp & Telegram Support Available<br />
+    Visit: <a href="https://ci-investment.org">ci-investment.org</a>
+  </div>
+</body>
+</html>
